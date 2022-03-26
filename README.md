@@ -5,7 +5,17 @@
 
 Project Quality and Performance is my First Priority. My goal is to maintain a good relationship through the projects and maintain the business relationship. To design and develop a successful Website/Web Page/Html Template/Convert Files is the main service that I provide.
 
-I have 3+ years of experience in Web Design and Development and I am specialized in WordPress, Shopify Store Create, Product Page Design, Shopify Landing Page Design, PSD to HTML, PSD to WordPress, Elementor Page Builder, Divi Theme and Divi Page Builder, Astra Pro, WP Bakery, Responsive Web Design, Landing Page Design, E-commerce Website, WordPress Website, Web UI Design, PHP, Mysql, Full Stack Web Development, etc and also I have completed more than 200+ projects with good feedback in this sector. I am very dependable, dedicated, and trustworthy in my work.
+## Skills & Experience:
+
+✅ WordPress <br>
+✅ Shopify <br>
+✅ WooCommerce <br>
+✅ Website Design <br>
+✅ Business Website <br>
+✅ PHP <br>
+✅ HTML5 / CSS / Bootstrap <br>
+
+I have completed more than 200+ projects with good feedback in this sector. I am very dependable, dedicated, and trustworthy in my work.
 
 Feel free to contact me for any discussion regarding your business idea or any other projects. Thanks for visiting my profile.
 
