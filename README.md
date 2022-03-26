@@ -14,8 +14,6 @@ I look forward to working with you!
 Warm Regards
 MH Mahbub
 
-Skills: HTML / CSS / PHP / WordPress / Shopify
-
 - 🔭 I’m currently working on CodemanBD 
 - 🌱 I’m currently learning PHP 
 - 👯 I’m looking to collaborate on Github 
