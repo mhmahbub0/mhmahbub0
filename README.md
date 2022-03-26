@@ -31,17 +31,14 @@ MH Mahbub
 - 💬 Ask me about Web related service 
 - 📫 How to reach me: mhmahbub010@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmahbub0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmahbub0" height="30" width="40" /></a>
-<a href="https://fb.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmahbub0" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmahbub0" height="30" width="40" /></a>
-<a href="https://dribbble.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mhmahbub0" height="30" width="40" /></a>
-<a href="https://www.behance.net/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mhmahbub0" height="30" width="40" /></a>
+<a href="https://twitter.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmahbub0" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmahbub0" height="25" width="25" /></a>
+<a href="https://fb.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmahbub0" height="25" width="25" /></a>
+<a href="https://instagram.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmahbub0" height="25" width="25" /></a>
+<a href="https://dribbble.com/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mhmahbub0" height="25" width="25" /></a>
+<a href="https://www.behance.net/mhmahbub0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mhmahbub0" height="25" width="25" /></a>
 </p>
 
-# 🔗 Join with me!
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/mhmahbub0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mhmahbub0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/mhmahbub0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/mhmahbub0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/mhmahbub0)  
 
